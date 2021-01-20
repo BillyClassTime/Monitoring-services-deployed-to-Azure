@@ -1,0 +1,9 @@
+# Ignore everything in this directory
+#*
+# Except this file
+#!.gitignore
+#Ignore the next directories with its files
+Solution/Api/bin
+Solution/Api/obj
+Solution/SimpleConsole/bin
+Solution/SimpleConsole/obj

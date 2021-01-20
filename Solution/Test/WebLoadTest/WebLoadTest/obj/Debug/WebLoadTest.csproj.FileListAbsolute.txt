@@ -1,0 +1,9 @@
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\bin\Debug\WebTest1.webtest
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\bin\Debug\WebLoadTest.dll
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\bin\Debug\WebLoadTest.pdb
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\obj\Debug\WebLoadTest.csprojAssemblyReference.cache
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\obj\Debug\WebLoadTest.csproj.CoreCompileInputs.cache
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\obj\Debug\WebLoadTest.csproj.CopyComplete
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\obj\Debug\WebLoadTest.dll
+D:\0Az-204\Allfiles\Labs\12\Starter\Test\WebLoadTest\WebLoadTest\obj\Debug\WebLoadTest.pdb

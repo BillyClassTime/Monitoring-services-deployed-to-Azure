@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="919b2fca-9401-4342-9c1f-59f9db6f2395" name="Billy@CLASSTIME 2021-01-20 11:52:52" runUser="CLASSTIME\Billy" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="daaf0a9b-8e1d-494e-8d42-c88ad4cf7dfc">
+    <Description>These are default test settings for a local test run.</Description>
+    <Execution hostProcessPlatform="MSIL">
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Billy_CLASSTIME 2021-01-20 11_52_52" />
+    <Properties>
+      <Property name="TestSettingsUIType" value="LoadTest" />
+    </Properties>
+  </TestSettings>
+  <Times creation="2021-01-20T11:52:52.8146278+01:00" queuing="2021-01-20T11:52:54.0585646+01:00" start="2021-01-20T11:52:54.2026773+01:00" finish="2021-01-20T11:53:35.5401879+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <WebTest name="WebTest1" storage="d:\0az-204\allfiles\labs\12\starter\test\webloadtest\webloadtest\webtest1.webtest" id="2ef3251e-9b2b-4d67-a202-5769c8a1ae9a" persistedWebTest="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pg0KPFdlYlRlc3QgTmFtZT0iV2ViVGVzdDEiIElkPSIyZWYzMjUxZS05YjJiLTRkNjctYTIwMi01NzY5YzhhMWFlOWEiIE93bmVyPSIiIFByaW9yaXR5PSIyMTQ3NDgzNjQ3IiBFbmFibGVkPSJUcnVlIiBDc3NQcm9qZWN0U3RydWN0dXJlPSIiIENzc0l0ZXJhdGlvbj0iIiBUaW1lb3V0PSIwIiBXb3JrSXRlbUlkcz0iIiB4bWxucz0iaHR0cDovL21pY3Jvc29mdC5jb20vc2NoZW1hcy9WaXN1YWxTdHVkaW8vVGVhbVRlc3QvMjAxMCIgRGVzY3JpcHRpb249IiIgQ3JlZGVudGlhbFVzZXJOYW1lPSIiIENyZWRlbnRpYWxQYXNzd29yZD0iIiBQcmVBdXRoZW50aWNhdGU9IlRydWUiIFByb3h5PSJkZWZhdWx0IiBTdG9wT25FcnJvcj0iRmFsc2UiIFJlY29yZGVkUmVzdWx0RmlsZT0iIiBSZXN1bHRzTG9jYWxlPSIiPg0KICA8SXRlbXM+DQogICAgPExvb3AgVW5pcXVlU3RyaW5nSWQ9ImQ5NTRhYTYxLTQzMDYtNDI1My1iMDhiLTU0MjkyMjhkOWUyZSI+DQogICAgICA8Q29uZGl0aW9uYWxSdWxlIENsYXNzbmFtZT0iTWljcm9zb2Z0LlZpc3VhbFN0dWRpby5UZXN0VG9vbHMuV2ViVGVzdGluZy5SdWxlcy5Gb3JMb29wUnVsZSwgTWljcm9zb2Z0LlZpc3VhbFN0dWRpby5RdWFsaXR5VG9vbHMuV2ViVGVzdEZyYW1ld29yaywgVmVyc2lvbj0xMC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iMDNmNWY3ZjExZDUwYTNhIiBEaXNwbGF5TmFtZT0iRm9yIExvb3AiIERlc2NyaXB0aW9uPSJUaGUgcnVsZSByZXByZXNlbnRzIGEgdHJhZGl0aW9uYWwgJnF1b3Q7Zm9yJnF1b3Q7IGxvb3AuIFRoZSBjb250ZXh0IHBhcmFtZXRlciBpcyBpbml0aWFsaXplZCBiZWZvcmUgdGhlIGZpcnN0IGxvb3AgaXRlcmF0aW9uLiBUaGUgbG9vcCBzdGF0ZW1lbnRzIGdldCBleGVjdXRlZCB3aGlsZSB0aGUgY29udGVudCBvZiB0aGUgY29udGV4dCBwYXJhbWV0ZXIgc2F0aXNmaWVzIHRoZSBjb21wYXJpc29uIHdpdGggdGhlIHByb3ZpZGVkIHZhbHVlLiBUaGUgc3RlcCB2YWx1ZSBpcyBhcHBsaWVkIGF0IHRoZSBlbmQgb2YgZWFjaCBsb29wIGl0ZXJhdGlvbi4iIE1heEl0ZXJhdGlvbnM9IjEwMDAiIEFkdmFuY2VEYXRhQ3Vyc29ycz0iVHJ1ZSI+DQogICAgICAgIDxSdWxlUGFyYW1ldGVycz4NCiAgICAgICAgICA8UnVsZVBhcmFtZXRlciBOYW1lPSJDb250ZXh0UGFyYW1ldGVyTmFtZSIgVmFsdWU9Iml0ZXJhdG9yIiAvPg0KICAgICAgICAgIDxSdWxlUGFyYW1ldGVyIE5hbWU9IkNvbXBhcmlzb25PcGVyYXRvciIgVmFsdWU9IiZsdDsiIC8+DQogICAgICAgICAgPFJ1bGVQYXJhbWV0ZXIgTmFtZT0iVGVybWluYXRpbmdWYWx1ZSIgVmFsdWU9IjEwMDAiIC8+DQogICAgICAgICAgPFJ1bGVQYXJhbWV0ZXIgTmFtZT0iSW5pdGlhbFZhbHVlIiBWYWx1ZT0iMSIgLz4NCiAgICAgICAgICA8UnVsZVBhcmFtZXRlciBOYW1lPSJJbmNyZW1lbnRWYWx1ZSIgVmFsdWU9IjEiIC8+DQogICAgICAgIDwvUnVsZVBhcmFtZXRlcnM+DQogICAgICA8L0NvbmRpdGlvbmFsUnVsZT4NCiAgICAgIDxJdGVtcz4NCiAgICAgICAgPFJlcXVlc3QgTWV0aG9kPSJHRVQiIEd1aWQ9IjNiMjYzMWEwLTAwMTQtNDNkMi1iYWZmLTRhZWU4ZDBjZWM4NiIgVmVyc2lvbj0iMS4xIiBVcmw9Imh0dHBzOi8vc21wYXBpYm12YjIwMjEuYXp1cmV3ZWJzaXRlcy5uZXQvd2VhdGhlcmZvcmVjYXN0IiBUaGlua1RpbWU9IjAiIFRpbWVvdXQ9IjMwMCIgUGFyc2VEZXBlbmRlbnRSZXF1ZXN0cz0iVHJ1ZSIgRm9sbG93UmVkaXJlY3RzPSJUcnVlIiBSZWNvcmRSZXN1bHQ9IlRydWUiIENhY2hlPSJGYWxzZSIgUmVzcG9uc2VUaW1lR29hbD0iMCIgRW5jb2Rpbmc9InV0Zi04IiBFeHBlY3RlZEh0dHBTdGF0dXNDb2RlPSIwIiBFeHBlY3RlZFJlc3BvbnNlVXJsPSIiIFJlcG9ydGluZ05hbWU9IiIgSWdub3JlSHR0cFN0YXR1c0NvZGU9IkZhbHNlIiAvPg0KICAgICAgPC9JdGVtcz4NCiAgICA8L0xvb3A+DQogIDwvSXRlbXM+DQo8L1dlYlRlc3Q+">
+      <Execution id="aea5021a-f1a5-4b90-9079-e4039e8844a7" />
+    </WebTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry isTransparent="false" testId="2ef3251e-9b2b-4d67-a202-5769c8a1ae9a" executionId="aea5021a-f1a5-4b90-9079-e4039e8844a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <WebTestResult executionId="aea5021a-f1a5-4b90-9079-e4039e8844a7" testId="2ef3251e-9b2b-4d67-a202-5769c8a1ae9a" testName="WebTest1" computerName="CLASSTIME" duration="00:00:29.6783147" startTime="2021-01-20T11:52:54.4596806+01:00" endTime="2021-01-20T11:53:34.8221936+01:00" testType="4e7599fa-5ecb-43e9-a887-cd63cf72d207" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aea5021a-f1a5-4b90-9079-e4039e8844a7">
+      <ResultFiles>
+        <ResultFile path="WebTest1.webtestResult" />
+      </ResultFiles>
+      <TestSettings name="Local" id="daaf0a9b-8e1d-494e-8d42-c88ad4cf7dfc">
+        <Description>These are default test settings for a local test run.</Description>
+        <Execution hostProcessPlatform="MSIL">
+          <TestTypeSpecific>
+            <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+              <Browser name="Internet Explorer 9.0" MaxConnections="6">
+                <Headers>
+                  <Header name="User-Agent" value="Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)" />
+                  <Header name="Accept" value="*/*" />
+                  <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+                  <Header name="Accept-Encoding" value="GZIP" />
+                </Headers>
+              </Browser>
+            </WebTestRunConfiguration>
+          </TestTypeSpecific>
+          <AgentRule name="Execution Agents">
+          </AgentRule>
+        </Execution>
+        <Deployment runDeploymentRoot="Billy_CLASSTIME 2021-01-20 11_52_52" />
+        <Properties>
+          <Property name="TestSettingsUIType" value="LoadTest" />
+        </Properties>
+      </TestSettings>
+      <WebTestResultFilePath>Billy_CLASSTIME 2021-01-20 11_52_52\In\aea5021a-f1a5-4b90-9079-e4039e8844a7\WebTest1.webtestResult</WebTestResultFilePath>
+    </WebTestResult>
+  </Results>
+</TestRun>
