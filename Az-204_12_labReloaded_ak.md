@@ -219,7 +219,7 @@ In this exercise, you created the resources that you will use for the remainder 
 1.  In the open command prompt, enter the following command and press Enter to create a new .NET Core Web API application named **SimpleApi** in the current directory:
 
     ```powershell
-    dotnet new webapi --output . --name SimpleApi -f netappcore3.1
+    dotnet new webapi --output . --name SimpleApi -f netcoreapp3.1
     ```
 
 1.  At the command prompt, enter the following command, and then select Enter to import version 2.14.0 of **Microsoft.ApplicationInsights** from NuGet to the current project:
