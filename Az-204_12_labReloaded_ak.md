@@ -730,7 +730,7 @@ In this exercise, you created a console application to access your API by using 
 
 #### Task 1: Run a performance test on an Web App
 
-1. Open Visual Studio
+1. Open Visual Studio 2019 
 
 2. Verified Web Load Tester is Setup
 
