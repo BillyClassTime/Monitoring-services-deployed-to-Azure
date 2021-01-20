@@ -310,7 +310,7 @@ In this exercise, you created the resources that you will use for the remainder 
 
 1.  In the open browser window, navigate to the **/weatherforecast** relative path of your test application hosted at **localhost** on port **5000**.
 
-    > **Note**: The full URL is http://localhost:5000/api/values
+    > **Note**: The full URL is http://localhost:5000/weatherforecast
 
 1.  In the same browser window, navigate to the **/weatherforecast** relative path of your test application hosted at **localhost** on port **5000**.
 
@@ -429,9 +429,9 @@ In this exercise, you created the resources that you will use for the remainder 
 
 1. In the **App Service** blade, select **Browse** at the top of the blade.
 
-1. A new browser window or tab will open and return a **404 (Not Found)** error. In the browser address bar, update the URL by appending the suffix **/api/values** to the end of the current URL and then press Enter.
+1. A new browser window or tab will open and return a **404 (Not Found)** error. In the browser address bar, update the URL by appending the suffix **/weatherforecast** to the end of the current URL and then press Enter.
 
-    > **Note**: For example, if your URL is http://smpapistudent.azurewebsites.net, the new URL would be http://smpapistudent.azurewebsites.net/api/values.
+    > **Note**: For example, if your URL is http://smpapistudent.azurewebsites.net, the new URL would be http://smpapistudent.azurewebsites.net/weatherforecast.
 
 1. Observe the JSON array that is returned as a result of using the API.
 
