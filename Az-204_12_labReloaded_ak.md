@@ -732,7 +732,7 @@ In this exercise, you created a console application to access your API by using 
 
 1. Open Visual Studio 2019 
 
-2. Verified Web Load Tester is Setup
+2. Verify Web Load Tester is setting up (Tools Options).
 
    ![image-20210120111539835](img/image-20210120111539835.png)
 
